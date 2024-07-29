@@ -1,4 +1,5 @@
-Практика для урока FasterXML Jackson. Сериализация и десериализация JSON в Java
+Практика для урока
+[FasterXML Jackson. Сериализация и десериализация JSON в Java](https://github.com/KFalcon2022/lessons/blob/master/lessons/libraries-and-build-systems/145/FasterXML%20Jackson.md)
 
 # Условие
 
